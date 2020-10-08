@@ -4,8 +4,8 @@ tags: adsense dfp
 ---
 
 google dfp 点击追踪记录
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script><br>
-<script type="text/javascript"><br>
+<script src=\"https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js\"></script><br>
+<script type=\"text/javascript\"><br>
 if (window!=top){   top.location.href =window.location.href;} <br>
  var isOverGoogleAd = false;<br>
     var ad = "div[id*='google_ads']";<br>
@@ -32,10 +32,10 @@ if (window!=top){   top.location.href =window.location.href;} <br>
                 });<br>
         }<br>
     });<br>
-</script><br>
+<\/script><br>
 
 google adsense 点击记录
-<script type="text/javascript"><br>
+<script type=\"text/javascript\"><br>
     var isOverGoogleAd = false;<br>
     var ad = /adsbygoogle/;<br>
     $(document).ready(function()<br>
@@ -61,5 +61,5 @@ google adsense 点击记录
             });<br>
         }<br>
     });<br>
-</script>
+<\/script>
 
