@@ -1,6 +1,6 @@
 ---
 title: google dfp和adsense 点击转化追踪
-tags: adsense:dfp
+tags: adsense dfp
 ---
 
 google dfp 点击追踪记录
