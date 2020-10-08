@@ -1,6 +1,7 @@
 ---
-title: {{ google dfp和adsense 点击转化追踪 }}
-date: {{ 
+title: google dfp和adsense 点击转化追踪
+tags:#google adsense #google dfp
+---
 
 google dfp 点击追踪记录
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
@@ -64,6 +65,4 @@ google adsense 点击记录
 </script>
 
 
-}}
-tags:google adsense,google dfp
----
+
